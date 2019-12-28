@@ -21,5 +21,5 @@ Kaggle Dataset was used for this project
 
 
 
-Accuracy can be further improved using CNN algorithms.
+Further improvements to be made: CNN algorithm
 
