@@ -10,6 +10,8 @@ Kaggle Dataset was used for this project
 # Algorithms Used:
 ### Random forest classifier
    Accuracy:92.87%
+   
+![](images/rf.png)
 ### Support Vector machines
    Accuracy:94.43%
 ### Naive Bayes
