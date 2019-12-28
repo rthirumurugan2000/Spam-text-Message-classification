@@ -17,7 +17,7 @@ Kaggle Dataset was used for this project
 ### Naive Bayes
    Accuracy:95.32%
 
-![](images/rf.png)
+![](images/nb.png)
 
 
 
